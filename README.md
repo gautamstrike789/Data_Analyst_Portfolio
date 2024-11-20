@@ -14,8 +14,8 @@ My CV in [pdf]()
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
 ## Table of Contents
-
-- [About](https://github.com/Kanchan-Bansode/Data-Analyst-Portfolio/blob/main/README.md#about)
+https://github.com/gautamstrike789/Data_Analyst_Portfolio/blob/main/README.md
+- [About](https://github.com/gautamstrike789/Data_Analyst_Portfolio/blob/main/README.md#about)
 - [Portfolio Projects](https://github.com/Kanchan-Bansode/Data-Analyst-Portfolio/blob/main/README.md#portfolio-projects)
   - Python
     - [Analyzing the Factors Contributing to the Success of a Movie](https://github.com/Kanchan-Bansode/Data-Analyst-Portfolio/blob/main/README.md#analyzing-the-factors-contributing-to-the-success-of-a-movie)
@@ -27,7 +27,7 @@ This is a repository to showcase skills, share projects and track my progress in
     - [Housing Data Cleaning](https://github.com/Kanchan-Bansode/Data-Analyst-Portfolio/blob/main/README.md#nashville-housing-data-cleaning)
     - [Library Management](https://github.com/Kanchan-Bansode/Portfolio_Projects/blob/main/Library%20Management.pdf)
   - Excel / Google Sheets
-  - Tableau---> [go to Tableau..](https://public.tableau.com/app/profile/kanchan.bansode6882/vizzes)
+  - Tableau---> [go to Tableau..](https://public.tableau.com/app/profile/aman.sharma1315/vizzes)
   - Power BI
   
 
@@ -126,5 +126,5 @@ The best way to showcase skills is by doing and sharing your job done but someti
 - [Microsoft Office Specialist: Excel Associate (Office 2019)]() (Jan 2024)
 
 ## Contacts
-- LinkedIn: [@KanchanBansode](https://www.linkedin.com/in/kanchan-bansode)
-- Email: kanchanbansode30@gmail.com
+- LinkedIn: [@AmanSharma](www.linkedin.com/in/as-aman-sharma)
+- Email: amansharmagerm@gmail.com
