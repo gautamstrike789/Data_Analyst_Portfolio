@@ -23,7 +23,7 @@ https://github.com/gautamstrike789/Data_Analyst_Portfolio/blob/main/README.md
     - [Object Detection in Satellite Imagery using Yolo]()
     - [Classification of X-Ray Images for  Pneumonia Diagnosis]()
   - SQL
-    - [Covid 19 Data Exploration](https://github.com/Kanchan-Bansode/Data-Analyst-Portfolio/blob/main/README.md#covid-19-data-exploration)
+    - [Covid 19 Data Exploration](https://github.com/gautamstrike789/Data_Analyst_Portfolio/blob/main/README.md#covid-19-data-exploration)
     - [Housing Data Cleaning](https://github.com/Kanchan-Bansode/Data-Analyst-Portfolio/blob/main/README.md#nashville-housing-data-cleaning)
     - [Library Management](https://github.com/Kanchan-Bansode/Portfolio_Projects/blob/main/Library%20Management.pdf)
   - Excel / Google Sheets
@@ -79,7 +79,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 
 ### Covid 19 Data Exploration
-*Code:* [COVID Portfolio Project.sql](https://github.com/tiannaparris/PortfolioProjects/blob/main/COVID%20Portfolio%20Project.sql)
+*Code:* [COVID Portfolio Project.sql](https://github.com/gautamstrike789/DataExplorationPortfolioProject/blob/main/Covid19_DataExploration.sql)
 
 *Description:* The dataset contains records of Covid-19 cases, deaths and vaccine records by country in 2020-2021. This project includes the following steps: data loading, data cleaning and preprocessing and EDA (exploratory data analysis).
 
