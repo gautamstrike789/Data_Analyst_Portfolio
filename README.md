@@ -88,6 +88,33 @@ SQL Server
 
 *Technology:* SQL Server
 
+Summary of Findings:
+
+Global Trends:
+
+The global death percentage (total deaths relative to total cases) indicates a critical mortality rate among infected populations.
+Continents with the highest death counts per population are identified, providing insights into regional pandemic severity.
+Country-Level Analysis:
+
+Countries with the highest infection rates relative to their population were identified, as well as those with the highest death counts.
+India, among other countries, showed significant trends in the death percentage over time.
+Vaccination Insights:
+
+The analysis determined the percentage of the population vaccinated in each country, highlighting the global progress in vaccination efforts.
+Rolling totals of vaccinated individuals over time provided insights into the pace of vaccination campaigns.
+Population Impact:
+
+Calculations showed what percentage of a country’s population was infected with Covid-19, giving a comparative view of infection rates globally.
+
+Limitations:
+
+Data Quality:
+
+- Some records included null or invalid values (e.g., negative ages or future termination dates). These were excluded during the analysis.
+- Some vaccination records lacked complete date alignment with case/death data, which may affect trend consistency.
+- The dataset does not cover all countries equally; some have incomplete records for cases, deaths, or vaccinations.
+- Variations in reporting standards and testing rates among countries could introduce biases in the results.
+
 ### Data Field Jobs Survey Analysis
 *Code:* [Data Field Jobs Survey Analysis.powerbi](https://github.com/gautamstrike789/DataExplorationPortfolioProject/tree/main/Data_Field_Jobs_Survey_Analysis)
 
