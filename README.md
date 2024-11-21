@@ -9,7 +9,7 @@ Pursuing my Master’s degree allowed me to deepen my analytical expertise and b
 I’m now seeking a challenging Data Analyst role where I can contribute my technical skills and analytical mindset to deliver impactful solutions. My commitment to continuous learning and solving real-world problems drives me to create data narratives that empower businesses to achieve their goals.
 
 
-My CV in [pdf]()
+###My CV in [pdf]()
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
