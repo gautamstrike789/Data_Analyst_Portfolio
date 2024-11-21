@@ -67,7 +67,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 
 
-### Nashville Housing Data Cleaning
+### Housing Data Cleaning
 *Code:* [Data Cleaning Project Queries: Nashville Housing.sql](https://github.com/Kanchan-Bansode/Portfolio_Projects/blob/main/Housing%20Data%20Cleaning.sql)
 
 *Description:* The dataset contains a list of houses that have been sold in Nashville between 2013 and 2019. This project includes the following steps: data loading, data cleaning and preprocessing.
