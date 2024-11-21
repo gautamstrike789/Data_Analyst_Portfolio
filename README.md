@@ -70,13 +70,14 @@ In this section I will list data analytics projects briefly describing the techn
 ### Housing Data Cleaning
 *Code:* [Data Cleaning Project Queries: Nashville Housing.sql](https://github.com/Kanchan-Bansode/Portfolio_Projects/blob/main/Housing%20Data%20Cleaning.sql)
 
-*Description:* The dataset contains a list of houses that have been sold in Nashville between 2013 and 2019. This project includes the following steps: data loading, data cleaning and preprocessing.
+**Description:**  
+This project analyzes a dataset of houses sold in Nashville from 2013 to 2019. It involves critical steps such as data loading, cleaning, and preprocessing to ensure data readiness for analysis.  
 
+**Skills:**  
+Data Manipulation Language (DML), Data Query Language (DQL), Data Definition Language (DDL).  
 
-*Skills:* DML(Data Manipulation Language), DQL (Data Query Language), DDL (Data Definition Language).
-
-*Technology:* SQL Server
-
+**Technology:**  
+SQL Server  
 
 ### Covid 19 Data Exploration
 *Code:* [COVID Portfolio Project.sql](https://github.com/gautamstrike789/DataExplorationPortfolioProject/blob/main/Covid19_DataExploration.sql)
