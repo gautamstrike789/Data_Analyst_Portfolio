@@ -11,12 +11,12 @@ I’m now seeking a challenging Data Analyst role where I can contribute my tech
 
 ### My CV in [pdf]()
 
-This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
+This repository serves as a platform to showcase my skills, share impactful projects, and track my growth in Data Analytics and Data Science. It highlights my expertise in data cleaning, visualization, and analysis, demonstrating my ability to solve real-world problems and deliver actionable insights.
 
 ## Table of Contents
 https://github.com/gautamstrike789/Data_Analyst_Portfolio/blob/main/README.md
 - [About](https://github.com/gautamstrike789/Data_Analyst_Portfolio/blob/main/README.md#about)
-- [Portfolio Projects](https://github.com/Kanchan-Bansode/Data-Analyst-Portfolio/blob/main/README.md#portfolio-projects)
+- [Portfolio Projects](https://github.com/gautamstrike789/Data_Analyst_Portfolio/blob/main/README.md#Portfolio Projects)
   - Python
     - [Analyzing the Factors Contributing to the Success of a Movie](https://github.com/Kanchan-Bansode/Data-Analyst-Portfolio/blob/main/README.md#analyzing-the-factors-contributing-to-the-success-of-a-movie)
     - [Tech Store Sales Analysis](https://github.com/Kanchan-Bansode/Data-Analyst-Portfolio/blob/main/README.md#tech-store-sales-analysis)
