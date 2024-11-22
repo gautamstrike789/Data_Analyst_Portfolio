@@ -19,7 +19,7 @@ https://github.com/gautamstrike789/Data_Analyst_Portfolio/blob/main/README.md
 - [Portfolio Projects](https://github.com/gautamstrike789/Data_Analyst_Portfolio/blob/main/README.md#Portfolio-Projects)
   - Python
     - [Analyzing the Factors Contributing to the Success of a Movie](https://github.com/Kanchan-Bansode/Data-Analyst-Portfolio/blob/main/README.md#analyzing-the-factors-contributing-to-the-success-of-a-movie)
-    - [Tech Store Sales Analysis](https://github.com/Kanchan-Bansode/Data-Analyst-Portfolio/blob/main/README.md#tech-store-sales-analysis)
+    - [Adidas Store Sales Analysis](https://github.com/Kanchan-Bansode/Data-Analyst-Portfolio/blob/main/README.md#tech-store-sales-analysis)
     - [Object Detection in Satellite Imagery using Yolo]()
     - [Classification of X-Ray Images for  Pneumonia Diagnosis]()
   - SQL
@@ -49,20 +49,39 @@ This section highlights my data analytics projects, with concise descriptions of
 
 *Results:* Using Python functions the analysis revealed that votes and budget have the highest correlation with gross earnings, while the company has no significant correlation.
 
-### Tech Store Sales Analysis
+### Adidas Store Sales Analysis
+*Code:* [Adidas Store Sales Analysis.ipynb](https://github.com/gautamstrike789/DataExplorationPortfolioProject/blob/main/Adidas_Retail_Sales_Analysis.ipynb)
 
-*Goal:* To examine the sales history of the store and extract insights on its performance, as well as to identify potential improvements that can be implemented.
+*Goal:*
+To perform exploratory data analysis (EDA) on the Adidas US retail dataset to evaluate sales performance, identify trends, and provide actionable insights for business decisions.
 
-*Code:* [Tech Store Sales Analysis.ipynb](https://github.com/Kanchan-Bansode/Portfolio_Projects/blob/main/Tech%20Store%20Sales%20Analysis.ipynb)
+*Description:*
+This project utilizes the Adidas US sales dataset, which includes columns such as retailer information, sales data, product details, and regional distribution. The analysis encompasses data cleaning, preprocessing, and answering business-specific questions to uncover trends and opportunities. Key operations include exploring relationships between variables, calculating metrics like average operating margins, and visualizing trends across regions, retailers, and products.
 
-*Description:* The dataset contains a list of sales records.  The records include the products for sale and order information(order id, order date, price, quantity ordered and purchase address). The project includes the following steps: data loading, data cleaning and preprocessing, EDA (exploratory data analysis), analyzing sales data and hypothesis testing.
+*Skills:*
+Data cleaning, exploratory data analysis (EDA), data visualization, statistical analysis, and deriving business insights.
 
-*Skills:* data cleaning, data analysis, hypothesis testing, data visualization.
+*Technology:*
+Python, Pandas, Numpy, Matplotlib, Seaborn.
 
-*Technology:* Python, Pandas, Matplotlib.
+*Results:*
 
-*Results:* Python functions that calculated and visually presented the sales data by month, city, and the most commonly sold items. Additionally, the reasons for the high frequency of these items being sold were analyzed and provided as insights.
+- Identified total sales and operating profit trends across regions, highlighting the West region as a top performer.
+Analyzed the impact of sales methods, with in-store sales outperforming online channels.
 
+- Determined the most popular products sold by each retailer, with "Men's Street Footwear" being the highest-selling category.
+Visualized average operating margins across all product categories, pinpointing the most profitable items.
+
+- Explored the correlation between price per unit and total sales, revealing a positive relationship.
+Evaluated average price per unit across cities to identify price-sensitive markets.
+
+- Ranked the top 10 retailers by total sales, offering insights into key partnerships and advertising strategies.
+
+**Business Questions Addressed:**
+-How sales methods impact total sales.
+-The trend of sales and operating profit across regions.
+-The most popular products for each retailer.
+-Average operating margins for products sold across retailers.
 
 
 ### Housing Data Cleaning
