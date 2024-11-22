@@ -18,7 +18,7 @@ https://github.com/gautamstrike789/Data_Analyst_Portfolio/blob/main/README.md
 - [About](https://github.com/gautamstrike789/Data_Analyst_Portfolio/blob/main/README.md#about)
 - [Portfolio Projects](https://github.com/gautamstrike789/Data_Analyst_Portfolio/blob/main/README.md#Portfolio-Projects)
   - Python
-    - [Analyzing the Factors Contributing to the Success of a Movie](https://github.com/Kanchan-Bansode/Data-Analyst-Portfolio/blob/main/README.md#analyzing-the-factors-contributing-to-the-success-of-a-movie)
+    - [HSBC Bank Fraud Analysis](https://github.com/gautamstrike789/Data_Analyst_Portfolio/blob/main/README.md#HSBC-Bank-Fraud-Analysis)
     - [Adidas Store Sales Analysis](https://github.com/gautamstrike789/Data_Analyst_Portfolio/blob/main/README.md#Adidas-store-sales-analysis)
     - [Object Detection in Satellite Imagery using Yolo]()
     - [Classification of X-Ray Images for  Pneumonia Diagnosis]()
@@ -29,25 +29,29 @@ https://github.com/gautamstrike789/Data_Analyst_Portfolio/blob/main/README.md
   - Power BI--> [go to PowerBI..](https://github.com/gautamstrike789/DataExplorationPortfolioProject/tree/main/PowerBI_Projects)
   
 
-
 - [Education](https://github.com/Kanchan-Bansode/Data-Analyst-Portfolio/blob/main/README.md#education)  
 - [Certificates](https://github.com/Kanchan-Bansode/Data-Analyst-Portfolio/blob/main/README.md#certificates)
 - [Contact](https://github.com/Kanchan-Bansode/Data-Analysis-Portfolio/blob/main/README.md#contacts)
 ## Portfolio Projects
 This section highlights my data analytics projects, with concise descriptions of each and an overview of the technology stack utilized to deliver effective solutions.
 
-### Analyzing the Factors Contributing to the Success of a Movie
+### HSBC Bank Fraud Analysis
 *Code:* [Analyzing the Factors Contributing to the Success of a Movie.ipynb](https://github.com/tiannaparris/PortfolioProjects/blob/main/Analyzing%20the%20Factors%20Contributing%20to%20the%20Success%20of%20a%20Movie.ipynb)
 
-*Goal:* To determine what factors contribute the most to a movie's success.
+*Goal:*
+To build a machine learning pipeline for detecting fraudulent banking transactions at HSBC using Random Forest, SVM, and Decision Tree models.
 
-*Description:* The project focused on analyzing a dataset of movies released between 1980 and 2022. The dataset included movie titles, ratings, genres, release dates, budgets, gross earnings, and other relevant information. The project involved loading the data, cleaning and preprocessing it, performing exploratory data analysis (EDA), analyzing the correlation between budget and gross earnings, and implemented Pearson’s correlation statistical analysis.
+*Description:*
+The project aimed to develop predictive models that can identify fraudulent transactions in real-time by analyzing historical banking data. The goal was to create accurate and efficient models to help HSBC prevent fraud and secure customer data.
 
-*Skills:* data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.
+*Skills:*
+data cleaning, data analysis, data visualization, Supervised Machine Learning, Model Evaluation, Feature Engineering, Performance Metrics Analysis.
 
-*Technology:* Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
+*Technology:*
+Python, Pandas, Numpy, Seaborn, Matplotlib, Scikit-learn(Random Forest, SVM, Decision Tree).
 
-*Results:* Using Python functions the analysis revealed that votes and budget have the highest correlation with gross earnings, while the company has no significant correlation.
+*Results:*
+The Random Forest model achieved 99.52% accuracy, proving to be the most effective for detecting fraud, while SVM and Decision Tree models showed promising but less optimal results. The pipeline helps HSBC by identifying fraudulent transactions early, minimizing financial losses, and improving security measures for customer data.
 
 ### Adidas Store Sales Analysis
 *Code:* [Adidas Store Sales Analysis.ipynb](https://github.com/gautamstrike789/DataExplorationPortfolioProject/blob/main/Adidas_Retail_Sales_Analysis.ipynb)
@@ -65,7 +69,6 @@ Data cleaning, exploratory data analysis (EDA), data visualization, statistical 
 Python, Pandas, Numpy, Matplotlib, Seaborn.
 
 *Results:*
-
 - Identified total sales and operating profit trends across regions, highlighting the West region as a top performer.
 Analyzed the impact of sales methods, with in-store sales outperforming online channels.
 
@@ -78,7 +81,6 @@ Evaluated average price per unit across cities to identify price-sensitive marke
 - Ranked the top 10 retailers by total sales, offering insights into key partnerships and advertising strategies.
 
 **Business Questions Addressed:**
-
  -How sales methods impact total sales.
 
  -The trend of sales and operating profit across regions.
@@ -86,7 +88,6 @@ Evaluated average price per unit across cities to identify price-sensitive marke
  -The most popular products for each retailer.
 
  -Average operating margins for products sold across retailers.
-
 
 ### Housing Data Cleaning
 *Code:* [Data Cleaning Project Queries: Nashville Housing.sql](https://github.com/Kanchan-Bansode/Portfolio_Projects/blob/main/Housing%20Data%20Cleaning.sql)
