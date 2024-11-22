@@ -25,10 +25,8 @@ https://github.com/gautamstrike789/Data_Analyst_Portfolio/blob/main/README.md
   - SQL
     - [Covid 19 Data Exploration](https://github.com/gautamstrike789/Data_Analyst_Portfolio/blob/main/README.md#covid-19-data-exploration)
     - [Housing Data Cleaning](https://github.com/Kanchan-Bansode/Data-Analyst-Portfolio/blob/main/README.md#nashville-housing-data-cleaning)
-    - [Data Field Jobs Survey Analysis](https://github.com/gautamstrike789/Data_Analyst_Portfolio/blob/main/README.md#Data-Field-Jobs-Survey-Analysis)
-  - Excel / Google Sheets
   - Tableau---> [go to Tableau..](https://public.tableau.com/app/profile/aman.sharma1315/vizzes)
-  - Power BI
+  - Power BI--> [go to PowerBI..]
   
 
 
