@@ -79,13 +79,13 @@ Evaluated average price per unit across cities to identify price-sensitive marke
 
 **Business Questions Addressed:**
 
--How sales methods impact total sales.
+ -How sales methods impact total sales.
 
--The trend of sales and operating profit across regions.
+ -The trend of sales and operating profit across regions.
 
--The most popular products for each retailer.
+ -The most popular products for each retailer.
 
--Average operating margins for products sold across retailers.
+ -Average operating margins for products sold across retailers.
 
 
 ### Housing Data Cleaning
