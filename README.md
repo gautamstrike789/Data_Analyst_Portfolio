@@ -143,6 +143,6 @@ Level 3 Diploma Course, Computer Technology
 
 The best way to showcase skills is by doing and sharing your work, but sometimes certificates are also valuable. Here’s a list of my certificates (in reverse-chronological order, with the date of completion in brackets):
 
-- [SQL Bootcamp] (July 2024) (Coursera - IBM)
-- [Fundamentals of Tableau] (Nov 2023) (Coursera - University of California, Davis)
-- [Foundation of Data Science] (Sep 2022) (Coursera - Google)
+- [SQL Bootcamp](#) (July 2024) (Coursera - IBM)
+- [Fundamentals of Tableau](#) (Nov 2023) (Coursera - University of California, Davis)
+- [Foundation of Data Science](#) (Sep 2022) (Coursera - Google)
