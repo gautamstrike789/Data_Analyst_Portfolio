@@ -19,7 +19,7 @@ https://github.com/gautamstrike789/Data_Analyst_Portfolio/blob/main/README.md
 - [Portfolio Projects](https://github.com/gautamstrike789/Data_Analyst_Portfolio/blob/main/README.md#Portfolio-Projects)
   - Python
     - [Analyzing the Factors Contributing to the Success of a Movie](https://github.com/Kanchan-Bansode/Data-Analyst-Portfolio/blob/main/README.md#analyzing-the-factors-contributing-to-the-success-of-a-movie)
-    - [Adidas Store Sales Analysis](https://github.com/Kanchan-Bansode/Data-Analyst-Portfolio/blob/main/README.md#tech-store-sales-analysis)
+    - [Adidas Store Sales Analysis](https://github.com/gautamstrike789/Data_Analyst_Portfolio/blob/main/README.md#Adidas-store-sales-analysis)
     - [Object Detection in Satellite Imagery using Yolo]()
     - [Classification of X-Ray Images for  Pneumonia Diagnosis]()
   - SQL
