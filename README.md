@@ -79,36 +79,56 @@ Data Manipulation Language (DML), Data Query Language (DQL), Data Definition Lan
 **Technology:**  
 SQL Server  
 
+**Summary of Findings:**
+
+- Property and owner addresses were split into separate components (Address, City, State) for improved granularity.
+Missing property addresses were populated using related records.
+Data Integrity Improvements:
+
+- Standardized date formats to maintain consistency in transaction timestamps.
+Converted binary "Y/N" values in the "Sold as Vacant" field to more intuitive "Yes/No" labels.
+Deduplication:
+
+- Identified and removed duplicate records based on key attributes such as Parcel ID, Property Address, Sale Price, and Legal Reference.
+Table Optimization:
+
+- Dropped unused columns (e.g., TaxDistrict, OwnerAddress) to streamline the dataset for analysis.
+**Limitations:**
+
+- Some records had missing addresses or inconsistent formats, requiring assumptions during imputation.
+Data preprocessing relied on parsing patterns, which might not account for edge cases or non-standard formats.
+Scope of Cleaning:
+
+- While structural enhancements were made, no exploratory data analysis (EDA) was conducted to identify deeper trends.
+Column Simplification:
+
+- Dropping columns may limit further analysis if those fields are later deemed useful.
+
 ### Covid 19 Data Exploration
 *Code:* [COVID Portfolio Project.sql](https://github.com/gautamstrike789/DataExplorationPortfolioProject/blob/main/Covid19_DataExploration.sql)
 
-*Description:* The dataset contains records of Covid-19 cases, deaths and vaccine records by country in 2020-2021. This project includes the following steps: data loading, data cleaning and preprocessing and EDA (exploratory data analysis).
+**Description:** The dataset contains records of Covid-19 cases, deaths and vaccine records by country in 2020-2021. This project includes the following steps: data loading, data cleaning and preprocessing and EDA (exploratory data analysis).
 
-*Skills:* Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
+**Skills:** Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
 
-*Technology:* SQL Server
+**Technology:** SQL Server
 
-Summary of Findings:
+**Summary of Findings:-**
 
-Global Trends:
-
-The global death percentage (total deaths relative to total cases) indicates a critical mortality rate among infected populations.
+- The global death percentage (total deaths relative to total cases) indicates a critical mortality rate among infected populations.
 Continents with the highest death counts per population are identified, providing insights into regional pandemic severity.
 Country-Level Analysis:
 
-Countries with the highest infection rates relative to their population were identified, as well as those with the highest death counts.
+- Countries with the highest infection rates relative to their population were identified, as well as those with the highest death counts.
 India, among other countries, showed significant trends in the death percentage over time.
 Vaccination Insights:
 
-The analysis determined the percentage of the population vaccinated in each country, highlighting the global progress in vaccination efforts.
+- The analysis determined the percentage of the population vaccinated in each country, highlighting the global progress in vaccination efforts.
 Rolling totals of vaccinated individuals over time provided insights into the pace of vaccination campaigns.
-Population Impact:
 
-Calculations showed what percentage of a country’s population was infected with Covid-19, giving a comparative view of infection rates globally.
+- Calculations showed what percentage of a country’s population was infected with Covid-19, giving a comparative view of infection rates globally.
 
-Limitations:
-
-Data Quality:
+**Limitations:**
 
 - Some records included null or invalid values (e.g., negative ages or future termination dates). These were excluded during the analysis.
 - Some vaccination records lacked complete date alignment with case/death data, which may affect trend consistency.
