@@ -79,7 +79,7 @@ Data Manipulation Language (DML), Data Query Language (DQL), Data Definition Lan
 **Technology:**  
 SQL Server  
 
-**Summary of Findings:**
+**Summary of Findings:-**
 
 - Property and owner addresses were split into separate components (Address, City, State) for improved granularity.
 Missing property addresses were populated using related records.
@@ -93,7 +93,8 @@ Deduplication:
 Table Optimization:
 
 - Dropped unused columns (e.g., TaxDistrict, OwnerAddress) to streamline the dataset for analysis.
-**Limitations:**
+  
+**Limitations:-**
 
 - Some records had missing addresses or inconsistent formats, requiring assumptions during imputation.
 Data preprocessing relied on parsing patterns, which might not account for edge cases or non-standard formats.
@@ -128,7 +129,7 @@ Rolling totals of vaccinated individuals over time provided insights into the pa
 
 - Calculations showed what percentage of a country’s population was infected with Covid-19, giving a comparative view of infection rates globally.
 
-**Limitations:**
+**Limitations:-**
 
 - Some records included null or invalid values (e.g., negative ages or future termination dates). These were excluded during the analysis.
 - Some vaccination records lacked complete date alignment with case/death data, which may affect trend consistency.
