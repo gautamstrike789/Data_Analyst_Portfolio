@@ -36,7 +36,7 @@ https://github.com/gautamstrike789/Data_Analyst_Portfolio/blob/main/README.md
 - [Certificates](https://github.com/Kanchan-Bansode/Data-Analyst-Portfolio/blob/main/README.md#certificates)
 - [Contact](https://github.com/Kanchan-Bansode/Data-Analysis-Portfolio/blob/main/README.md#contacts)
 ## Portfolio Projects
-In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
+This section highlights my data analytics projects, with concise descriptions of each and an overview of the technology stack utilized to deliver effective solutions.
 
 ### Analyzing the Factors Contributing to the Success of a Movie
 *Code:* [Analyzing the Factors Contributing to the Success of a Movie.ipynb](https://github.com/tiannaparris/PortfolioProjects/blob/main/Analyzing%20the%20Factors%20Contributing%20to%20the%20Success%20of%20a%20Movie.ipynb)
@@ -135,27 +135,6 @@ Rolling totals of vaccinated individuals over time provided insights into the pa
 - Some vaccination records lacked complete date alignment with case/death data, which may affect trend consistency.
 - The dataset does not cover all countries equally; some have incomplete records for cases, deaths, or vaccinations.
 - Variations in reporting standards and testing rates among countries could introduce biases in the results.
-
-### Data Field Jobs Survey Analysis
-*Code:* [Data Field Jobs Survey Analysis.powerbi](https://github.com/gautamstrike789/DataExplorationPortfolioProject/tree/main/Data_Field_Jobs_Survey_Analysis)
-
-
-
-### Legendary Pokémon Analysis
-
-*Goal:* To predict Pokémon status based on their characteristics and rank their importance in determining whether a Pokémon is classified as legendary.
-
-*Code:* [Legendary Pokémon Analysis (Study Project)](https://github.com/tiannaparris/PortfolioProjects/blob/main/Legendary%20Pok%C3%A9mon%20Analysis.ipynb)
-
-*Description:* The dataset contains a list of  Pokémon.  The records include their characteristics such as attack, defense, type and size. The project includes the following steps: data loading, data cleaning EDA (exploratory data analysis), analyzing characteristics of different Pokémon.
-
-*Skills:* data cleaning, data analysis, data visualization.
-
-*Technology:* Tidyverse 
-
-
-
-
 
 ## Education
 Gisma University of Applied Science, Berlin, Germany: 
