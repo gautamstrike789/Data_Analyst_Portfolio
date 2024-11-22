@@ -13,7 +13,6 @@ I’m now seeking a challenging Data Analyst role where I can contribute my tech
 This repository serves as a platform to showcase my skills, share impactful projects, and track my growth in Data Analytics and Data Science. It highlights my expertise in data cleaning, visualization, and analysis, demonstrating my ability to solve real-world problems and deliver actionable insights.
 
 ## Table of Contents
-[Link to Table of Contents](https://github.com/gautamstrike789/Data_Analyst_Portfolio/blob/main/README.md)
 - [About](https://github.com/gautamstrike789/Data_Analyst_Portfolio/blob/main/README.md#about)
 - [Portfolio Projects](https://github.com/gautamstrike789/Data_Analyst_Portfolio/blob/main/README.md#Portfolio-Projects)
   - Python
@@ -33,7 +32,7 @@ This repository serves as a platform to showcase my skills, share impactful proj
 This section highlights my data analytics projects, with concise descriptions of each and an overview of the technology stack utilized to deliver effective solutions.
 
 ### HSBC Bank Fraud Analysis
-*Code:* [Analyzing the Factors Contributing to the Success of a Movie.ipynb](https://github.com/tiannaparris/PortfolioProjects/blob/main/Analyzing%20the%20Factors%20Contributing%20to%20the%20Success%20of%20a%20Movie.ipynb)
+*Code:* [HSBC_Bank_Fraud_Detection.ipynb](https://github.com/gautamstrike789/DataAnalyst-PortfolioProject/blob/main/HSBC_Bank_Fraud_Detection.ipynb)
 
 **Goal:**  
 To build a machine learning pipeline for detecting fraudulent banking transactions at HSBC using Random Forest, SVM, and Decision Tree models.
@@ -81,7 +80,7 @@ Python, Pandas, Numpy, Matplotlib, Seaborn.
 - Average operating margins for products sold across retailers.
 
 ### Housing Data Cleaning
-*Code:* [Data Cleaning Project Queries: Nashville Housing.sql](https://github.com/Kanchan-Bansode/Portfolio_Projects/blob/main/Housing%20Data%20Cleaning.sql)
+*Code:* [Data Cleaning Project: Housing.sql](https://github.com/gautamstrike789/DataAnalyst-PortfolioProject/blob/main/Housing%20Data%20Cleaning.sql)
 
 **Description:**  
 This project analyzes a dataset of houses sold in Nashville from 2013 to 2019. It involves critical steps such as data loading, cleaning, and preprocessing to ensure data readiness for analysis.
