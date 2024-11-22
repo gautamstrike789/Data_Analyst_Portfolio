@@ -8,7 +8,7 @@ Pursuing my Master’s degree allowed me to deepen my analytical expertise and b
 
 I’m now seeking a challenging Data Analyst role where I can contribute my technical skills and analytical mindset to deliver impactful solutions. My commitment to continuous learning and solving real-world problems drives me to create data narratives that empower businesses to achieve their goals.
 
-### My CV in [pdf]()
+### My CV in [pdf](https://github.com/gautamstrike789/Data_Analyst_Portfolio/blob/main/AMAN_CV.pdf)
 
 This repository serves as a platform to showcase my skills, share impactful projects, and track my growth in Data Analytics and Data Science. It highlights my expertise in data cleaning, visualization, and analysis, demonstrating my ability to solve real-world problems and deliver actionable insights.
 
