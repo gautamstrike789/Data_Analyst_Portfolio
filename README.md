@@ -78,6 +78,7 @@ Evaluated average price per unit across cities to identify price-sensitive marke
 - Ranked the top 10 retailers by total sales, offering insights into key partnerships and advertising strategies.
 
 **Business Questions Addressed:**
+
 -How sales methods impact total sales.
 
 -The trend of sales and operating profit across regions.
