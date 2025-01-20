@@ -2,11 +2,11 @@
 
 ## About
 
-I am a dedicated Data Analyst with a Master’s degree in Data Science from Berlin, Germany, and a Bachelor’s degree in IT. My journey began with a passion for technology and data, which led me to start my professional career as a Data Analyst at WhiteHat Jr immediately after graduation. Over two years, I gained hands-on experience in transforming raw data into meaningful insights, supporting data-driven decision-making across the organization.
+I am a dedicated Data Analyst with a Master’s degree in Data Science from Gisma university of applied science Potsdam, Germany, and a Bachelor’s degree in IT. My journey began with a passion for technology and data, which led me to start my professional career as a Data Analyst at WhiteHat Jr immediately after graduation. Over two years, I gained hands-on experience in transforming raw data into meaningful insights, supporting data-driven decision-making across the organization.
 
 Pursuing my Master’s degree allowed me to deepen my analytical expertise and broaden my understanding of advanced techniques, including predictive modeling and machine learning. Now, I excel at both descriptive and predictive analysis, utilizing tools like Python, Tableau, and Power BI to craft compelling visualizations and drive actionable strategies.
 
-I’m now seeking a challenging Data Analyst role where I can contribute my technical skills and analytical mindset to deliver impactful solutions. My commitment to continuous learning and solving real-world problems drives me to create data narratives that empower businesses to achieve their goals.
+I’m now seeking a challenging Data Analyst or other data based role where I can contribute my technical skills and analytical mindset to deliver impactful solutions. My commitment to continuous learning and solving real-world problems drives me to create data narratives that empower businesses to achieve their goals.
 
 ### My CV in [pdf](https://github.com/gautamstrike789/Data_Analyst_Portfolio/blob/main/AMAN_CV.pdf)
 
